@@ -1,0 +1,136 @@
+
+    <Package name="CXPMF_CHAT_STRINGS">
+        <Key ID="STR_CXP_MF_SCHAT_InvalidMarker">
+            <Original>Invalid marker...</Original>
+            <Portuguese>Marcador inválido...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_SCHAT_ChooseToSet">
+            <Original>You need to select a marker before setting a task destination...</Original>
+            <Portuguese>Você precisa selecionar um marcador para definí-lo como destino...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_SCHAT_CancelCurrentTask">
+            <Original>Cancel the current destination to create a new one...</Original>
+            <Portuguese>Cancele ou alcance o destino atual para escolher um novo...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_SCHAT_NoCurrentDestination">
+            <Original>Current destination not found...</Original>
+            <Portuguese>Destino atual não encontrado...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_SCHAT_ExceptionNotFound">
+            <Original>No filtered marker selected, hiding all of them...</Original>
+            <Portuguese>Nenhum marcador filtrado foi encontrado, escondendo todos do mapa...</Portuguese>
+        </Key>
+    </Package>
+
+    <Package name="CXPMF_MENU_TEXTS">
+        <Key ID="STR_CXP_MF_Text_Category">
+            <Original>Category:</Original>
+            <Portuguese>Categoria:</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_Text_SubCategory">
+            <Original>Subcategory:</Original>
+            <Portuguese>Subcategoria:</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_Text_Markers">
+            <Original>Markers:</Original>
+            <Portuguese>Marcadores:</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_Text_ResetWithMap">
+            <Original>Reset On Opening</Original>
+            <Portuguese>Redefinir Ao Abrir</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_Text_TaskWithMap">
+            <Original>Find On Opening</Original>
+            <Portuguese>Encontrar Ao Abrir</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_Text_HideAllEx">
+            <Original>Hide All (Except)</Original>
+            <Portuguese>Esconder Todos (Exceto)</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_Text_HideAll">
+            <Original>Hide All</Original>
+            <Portuguese>Esconder Todos</Portuguese>
+        </Key>
+       <Key ID="STR_CXP_MF_Text_Cancel">
+            <Original>CANCEL</Original>
+            <Portuguese>CANCELAR</Portuguese>
+        </Key>
+       <Key ID="STR_CXP_MF_Text_Set">
+            <Original>SET</Original>
+            <Portuguese>ESCOLHER</Portuguese>
+        </Key>
+       <Key ID="STR_CXP_MF_Text_Find">
+            <Original>FIND</Original>
+            <Portuguese>ENCONTRAR</Portuguese>
+        </Key>
+       <Key ID="STR_CXP_MF_Text_Reset">
+            <Original>RESET</Original>
+            <Portuguese>REDEFINIR</Portuguese>
+        </Key>
+       <Key ID="STR_CXP_MF_Text_Actions">
+            <Original>Actions:</Original>
+            <Portuguese>Ações:</Portuguese>
+        </Key>
+    </Package>
+
+    <Package name="CXPMF_MENU_TOOLTIPS">
+        <Key ID="STR_CXP_MF_ToolTip_Find">
+            <Original>Select a marker to use this option...</Original>
+            <Portuguese>Selecione um marcador para usar essa opção...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_FindWarning">
+            <Original>Select a marker to use this option...</Original>
+            <Portuguese>Selecione um marcador para usar essa opção...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_Reset">
+            <Original>Reset filter to player's position...</Original>
+            <Portuguese>Redefinir filtro para a posição do jogador...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_Zoom">
+            <Original>ZOOM +IN/-OUT...</Original>
+            <Portuguese>ZOOM +IN/-OUT...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_Set">
+            <Original>Set marker as destination...</Original>
+            <Portuguese>Escolher marcador como destino...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_Cancel">
+            <Original>Delete destination...</Original>
+            <Portuguese>Remover destino...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_CancelWarning">
+            <Original>Cancel/Complete the destination task to use this action...</Original>
+            <Portuguese>Cancele/Alcance o destino marcado para usar essa ação...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_HideAll">
+            <Original>Hide all markers...</Original>
+            <Portuguese>Esconder todos marcadores...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_HideAllEx">
+            <Original>Hide all markers except selected one...</Original>
+            <Portuguese>Esconder todos marcadores exceto o selecionado...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_TaskWithMap">
+            <Original>Find current destination when map is opened...</Original>
+            <Portuguese>Encontrar destino atual ao abrir o mapa...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_ToolTip_ResetWithMap">
+            <Original>Reset filter when opening menu...</Original>
+            <Portuguese>Redefinir filtro ao abrir o mapa...</Portuguese>
+        </Key>
+    </Package>
+
+    <Package name="CXPMF_TASK_STRINGS">
+        <Key ID="STR_CXP_MF_TaskStr_LongDescription">
+            <Original>Reach the filtered destination...</Original>
+            <Portuguese>Chegue no destiono filtrado...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_TaskStr_ShortDescription">
+            <Original>Filtered Destination</Original>
+            <Portuguese>Destino Filtrado</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_MF_TaskStr_SucceededDescription">
+            <Original>Filtered destination reached!</Original>
+            <Portuguese>Você chegou no destino filtrado!</Portuguese>
+        </Key>
+    </Package>

@@ -1,0 +1,37 @@
+V2.6
+	- Source code is now open. No need to use extensions to get the product working on your server
+V2.5a
+	- Updated package: cxp folder now can be downloaded from the a installation manual's link
+V2.5
+	- New properties to configure for your safezone: now you can whitelist cars and sides that can shoot inside the safezone
+V2.4
+	- Fixed creation of safezones that get a shape of RECTANGULAR
+	- New instructions to update to the last version of my systems!
+V2.3
+	- New config option: can_lockpick (choose if players can lockpick inside the area or not), follow specific instructions on the manual to use this new feature!
+	- All system's functions are obfuscated and separated as modules
+	- New instructions on how to install the product's module
+V2.2
+	- New product manual
+	- No need to convert your license key anymore
+	- New external link to download the latest version of @cxpfserver
+V2.1
+	- New pre-configurated safezones
+	- New instructions on config.cpp file
+V2.0
+	- New config.cpp file that's more user-friendly
+	- New config option for your safezones: you can choose if a player can knockout someone inside the area or not
+	- cxpfserver addon v2.2 update
+V1.1a
+	- cxpfserverext.so: Debian 9 compatibility update
+V1.1
+	- cxpfserver addon v2.1 update
+	- cxpfserverext (linux extension) v1.1.0 update
+V1.0d
+	- Changed: Tazer now works on safezones
+V1.0c
+	- Server Addon update V2
+V1.0b
+	- Server side code updated (JUST UPDATE @cxpfserver FOLDER ON YOUR SERVER, ITS VERY IMPORTANT!!!)
+v1.0a
+	- First release of this product

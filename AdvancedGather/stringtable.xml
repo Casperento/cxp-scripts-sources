@@ -1,0 +1,127 @@
+	
+	<Package name="CXPADG_MENU_TEXTS">
+        <Key ID="STR_CXP_ADG_Text_ItemInformation">
+            <Original>Items Information</Original>
+            <Portuguese>Informações de Itens</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_ItemWeight">
+            <Original>Weight: %1</Original>
+            <Portuguese>Peso do item: %1</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_ItemWeightP">
+            <Original>Weight (processed): %1</Original>
+            <Portuguese>Peso (processado): %1</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BackPack">
+            <Original>Backpack: %1 / %2</Original>
+            <Portuguese>Mochila: %1 / %2</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_GatherAmount">
+            <Original>You have room to store %1 %2(s) in your backpack</Original>
+            <Portuguese>Você tem espaço para guardar %1 %2(s) na sua mochila</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_ProcLoc">
+            <Original>Processor/Trader Location</Original>
+            <Portuguese>Localização do Processador/Comprador</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_ProgressBar">
+            <Original>Pickup progress: %1%2...</Original>
+            <Portuguese>Progresso da coleta: %1%2...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnStart">
+            <Original>START</Original>
+            <Portuguese>INICIAR</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnProcessor">
+            <Original>PROCESSOR</Original>
+            <Portuguese>PROCESSADOR</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnTrader">
+            <Original>TRADER</Original>
+            <Portuguese>COMPRADOR</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnCancel">
+            <Original>CANCEL</Original>
+            <Portuguese>CANCELAR</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnCancel_Delay">
+            <Original>%1s...</Original>
+            <Portuguese>%1s...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnStart_Delay">
+            <Original>%1s...</Original>
+            <Portuguese>%1s...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_BtnClose">
+            <Original>CLOSE</Original>
+            <Portuguese>FECHAR</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_StayOutVeh">
+            <Original>You need to stay out of a vehicle to gather an item...</Original>
+            <Portuguese>Você precisa estar fora de um veículo para iniciar a coleta...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_Text_ReqItem">
+            <Original>You need a %1 to start gathering process...</Original>
+            <Portuguese>Você precisa de um(a) %1 para iniciar o processo de coleta...</Portuguese>
+        </Key>
+    </Package>
+    <Package name="CXPADG_TASK_STRINGS">
+        <Key ID="STR_CXP_ADG_TaskStr_LongDescription">
+            <Original>Reach the processor's location...</Original>
+            <Portuguese>Chegue no processador...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_TaskStr_ShortDescription">
+            <Original>Processor's Location</Original>
+            <Portuguese>Localização do processador</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_TaskStr_SucceededDescription">
+            <Original>Processor's location reached!</Original>
+            <Portuguese>Você chegou no processador!</Portuguese>
+        </Key>
+    </Package>
+    <Package name="CXPADG_MENU_TOOLTIPS">
+        <Key ID="STR_CXP_ADG_ToolTip_BtnStart">
+            <Original>Start gathering...</Original>
+            <Portuguese>Iniciar coleta...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnStarted">
+            <Original>Filling backpack...</Original>
+            <Portuguese>Preenchendo mochila...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnStart_InvFull">
+            <Original>Your backpack is full...</Original>
+            <Portuguese>Sua mochila está cheia...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnStart_SelectedOut">
+            <Original>You don't have room to store the selected item...</Original>
+            <Portuguese>Você não tem mais espaço para guardar o item selecionado...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnProcessor">
+            <Original>Set processor's location as destination...</Original>
+            <Portuguese>Marcar localização do processador...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnTrader">
+            <Original>Set trader's location as destination...</Original>
+            <Portuguese>Marcar localização do comprador...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnCancel">
+            <Original>Cancel current task...</Original>
+            <Portuguese>Cancelar tarefa atual...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnCancel_Delay">
+            <Original>Wait %1 seconds to cancel task...</Original>
+            <Portuguese>Aguarde %1 segundos para cancelar a tarefa...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnStart_Delay">
+            <Original>Wait %1 seconds to start again...</Original>
+            <Portuguese>Aguarde %1 segundos para iniciar o processo novamente...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnClose">
+            <Original>Close menu...</Original>
+            <Portuguese>Fechar menu...</Portuguese>
+        </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_WaitStarted">
+            <Original>Wait the gathering process complete to interact with the menu...</Original>
+            <Portuguese>Aguarde a coleta terminar para interagir com o menu...</Portuguese>
+        </Key>
+    </Package>

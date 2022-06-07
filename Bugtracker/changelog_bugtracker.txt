@@ -1,0 +1,57 @@
+V2.1
+	- Source code is now open. No need to use extensions to get the product working on your server
+V2.0c
+	- Updated package: cxp folder now can be downloaded from the a installation manual's link
+V2.0b
+	- Fixed default value for cxp_bt_keyOpenOn variable on config.cpp file
+	- Added German language support in the stringtable.xml file
+V2.0
+	- New advanced configuration options: you can now add conditions that forbbid the menu from being opened, or setup new functions sync player's data
+	- New strigtable packages for better translation support
+	- New UI: clean and simple
+V1.8
+	- Now you can create a custom script using a menu button to open the bugtracker and deactivate the default key binding option
+	- New instructions are inside of config.cpp file
+	- New instructions to update to the last version of my systems!
+V1.7a
+	- All system's functions are obfuscated and separated as modules
+	- New instructions on how to install the product's module
+V1.7
+	- New product manual
+	- No need to convert your license key anymore
+	- New external link to download the latest version of @cxpfserver
+V1.6d
+	- Small fix on the bugtracker dialog
+V1.6c
+	- cxpfserver addon v2.2 update
+V1.6b
+	- fixed script package
+	- cxpfserverext.so: Debian 9 compatibility update
+V1.6a
+	- cxpfserverext.so: Debian 9 compatibility update
+V1.6
+	- cxpfserver addon v2.1 update
+	- cxpfserverext (linux extension) v1.1.0 update
+V1.5d
+	- Small fix on server-side code
+V1.5c
+	- Server Addon update V2
+V1.5b
+	- Server side code updated (JUST UPDATE @cxpfserver FOLDER ON YOUR SERVER, ITS VERY IMPORTANT!!!)
+V1.5
+	- Compatible with Linux
+	- Updated server files
+	- Fixed the delay timer
+	- New License Key system
+	- New License Converter included in the package
+V1.0e
+	- Fixed the action_in_use system's condition
+V1.0d
+	- Fixed the postInit function
+V1.0c
+	- Fixed server side code
+V1.0b
+	- Fixed the labels from the main menu
+	- New changelog.txt file included on the package
+v1.0
+	- First release of this product

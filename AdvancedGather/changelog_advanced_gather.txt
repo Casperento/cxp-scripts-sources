@@ -1,0 +1,6 @@
+v1.0
+	- First release of this product
+
+v1.1
+  - Fixed cases in which the progress bar dialog was not loading 100%
+  - Added a new option to configure how longer the gather process will take for an item

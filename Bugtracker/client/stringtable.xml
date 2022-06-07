@@ -1,0 +1,77 @@
+
+    <Package name="CXPBT_SYS_HINTS">
+        <Key ID="STR_CXP_BT_Hint_emptyStr">
+            <Original>You need to type what you want to report!</Original>
+            <Portuguese>Você precisa digitar o que você quer reportar!</Portuguese>
+            <German>Sie müssen eingeben, was Sie melden möchten!</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Hint_CharLen">
+            <Original>Character limit reached: %1</Original>
+            <Portuguese>Limite de caracteres atingido: %1</Portuguese>
+            <German>Zeichenbegrenzung erreicht: %1</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Hint_UnsuppChar">
+            <Original>Invalid character typed in a text field...</Original>
+            <Portuguese>Caracter inválido digitado em um dos campos...</Portuguese>
+            <German>In einem der Felder wurde ein ungültiges Zeichen eingegeben...</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Hint_DelayTimer">
+            <Original>You must wait %1min to report something again...</Original>
+            <Portuguese>Você precisa aguardar %1min para reportar alguma coisa novamente...</Portuguese>
+            <German>Sie müssen %1min warten, um erneut etwas zu melden...</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Hint_Thx">
+            <Original>We thank you for your help and we will fix this bug as soon as possible!</Original>
+            <Portuguese>Agradecemos pela ajuda e corrigiremos esse bug o mais rápido possível!</Portuguese>
+            <German>Vielen Dank für Ihre Hilfe und wir werden diesen Fehler so schnell wie möglich beheben!</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Hint_tryAgainLater">
+            <Original>Try again later...</Original>
+            <Portuguese>Tente novamente mais tarde...</Portuguese>
+            <German>Versuchen Sie es später noch einmal...</German>
+        </Key>
+    </Package>
+    <Package name="CXPBT_MENU_TEXTS">
+        <Key ID="STR_CXP_BT_Text_Report">
+            <Original>REPORT</Original>
+            <Portuguese>REPORTAR</Portuguese>
+            <German>Melden</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Text_Close">
+            <Original>CLOSE</Original>
+            <Portuguese>FECHAR</Portuguese>
+            <German>Schließen</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Text_SubTitle">
+            <Original>Please, help us tracking bugs on our server and we will work hard to fix your issue!</Original>
+            <Portuguese>Por favor, ajude-nos a rastrear bugs em nosso servidor e nós trabalharemos duro para corrigir seu problema!</Portuguese>
+            <German>Bitte helfen Sie uns, Fehler auf unserem Server zu verfolgen, und wir werden hart daran arbeiten, Ihr Problem zu beheben!</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Text_BugHpnd">
+            <Original>Explain exactly what happened to you:</Original>
+            <Portuguese>Explique exatamente o que aconteceu com você:</Portuguese>
+            <German>Erklären Sie genau, was Ihnen passiert ist:</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Text_ExpectedBhv">
+            <Original>Explain about the expected behavior from what happened:</Original>
+            <Portuguese>Explique o que deveria ter ocorrido se não houvesse o bug:</Portuguese>
+            <German>Erklären Sie, was hätte passieren sollen, wenn es keinen Fehler gegeben hätte:</German>
+        </Key>
+        <Key ID="STR_CXP_BT_Text_Credits">
+            <Original>WEBSITE: mywebsite.com | TS3: ts3.myts3.com | Discord: discord.com/inviteLink</Original>
+            <Portuguese>WEBSITE: mywebsite.com | TS3: ts3.myts3.com | Discord: discord.com/inviteLink</Portuguese>
+            <German>WEBSITE: mywebsite.com | TS3: ts3.myts3.com | Discord: discord.com/inviteLink</German>
+        </Key>
+    </Package>
+    <Package name="CXPBT_MENU_TOOLTIPS">
+        <Key ID="STR_CXP_BT_ToolTip_Report">
+            <Original>Report bug...</Original>
+            <Portuguese>Reportar bug...</Portuguese>
+            <German>Fehler melden...</German>
+        </Key>
+        <Key ID="STR_CXP_BT_ToolTip_Close">
+            <Original>Close Menu...</Original>
+            <Portuguese>Fechar Menu...</Portuguese>
+            <German>Menü schließen...</German>
+        </Key>
+    </Package>
