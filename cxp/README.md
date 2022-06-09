@@ -16,7 +16,7 @@
 
     **Example (lines: 10 and 11, 28):**
 
-    <img src="./media/image2.png" style="width:3.79167in;height:4.96875in" />
+    <img src="../images/cxp/image1.png" style="width:3.79167in;height:4.96875in" />
 
     - Inside your ``` class CfgFunctions { ``` class:
     ```sqf
@@ -25,7 +25,7 @@
 
     **Example (line 31):**
 
-    <img src="./media/image3.png" style="width:4.13542in;height:2.97917in" />
+    <img src="../images/cxp/image2.png" style="width:4.13542in;height:2.97917in" />
 
     - Inside your ``` class CfgNotifications { ``` class:
     ```sqf
@@ -34,7 +34,7 @@
 
     **Example (line 116):**
 
-    <img src="./media/image5.png" style="width:6.30208in;height:2.01042in" />
+    <img src="../images/cxp/image3.png" style="width:6.30208in;height:2.01042in" />
 
 3. Open your **missionName.Map\\CfgRemoteExec.hpp** file and add:
 
@@ -45,4 +45,4 @@
 
     **Example (line 19):**
 
-    <img src="./media/image4.png" style="width:4.10417in;height:2.5625in" />
+    <img src="../images/cxp/image4.png" style="width:4.10417in;height:2.5625in" />
