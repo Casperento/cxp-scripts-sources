@@ -25,7 +25,7 @@ Open the downloaded package and follow instructions below.
 
     **Example (line 4):**
 
-    <img src="./media/image1.png" style="width:6.5in;height:0.97222in" />
+    <img src="../images/Bugtracker/image1.png" style="width:6.5in;height:0.97222in" />
 
 4. Open your SQL client and then copy the content of **bugTracker.sql** file to create the persistence dependencies on your server. If you have a different database name than **altislife**, change it on the **USE \`myDatabaseName\`;** statement. And then execute the pasted SQL script.
 5. Copy the **server\\bugTracker\\** folder into your **life_server\\** folder.
@@ -43,7 +43,7 @@ class CxpBugTracker {
    
    **Example (lines 13-20):**
 
-   <img src="./media/image3.png" style="width:6.5in;height:6.13889in" />
+   <img src="../images/Bugtracker/image3.png" style="width:6.5in;height:6.13889in" />
 
 ## Further Instructions
 
