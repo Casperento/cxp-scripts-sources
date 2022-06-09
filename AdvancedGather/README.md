@@ -25,15 +25,15 @@ Open the downloaded package and follow instructions below.
 
     **Example (line 4):**
 
-    <img src="https://is.gd/Jt76HK" style="width:6.5in;height:0.97222in" />
+    <img src="../images/AdvGather/image2.png" style="width:6.5in;height:0.97222in" />
 
 4. Open your **missionName.Map\\config\\Config_Master.hpp** file, scroll down to the end of the file, and comment the following line:
 
-    <img src="https://is.gd/RXU31h" style="width:5.33333in;height:2.67708in" />
+    <img src="../images/AdvGather/image3.png" style="width:5.33333in;height:2.67708in" />
 
 5. Open your **missionName.Map\\core\\functions\\fn_actionKeyHandler.sqf** file, and comment the following lines:
 
-    <img src="https://is.gd/MYtUAf" style="width:6.5in;height:2.86111in" />
+    <img src="../images/AdvGather/image4.png" style="width:6.5in;height:2.86111in" />
 
 6. Copy the following code and paste it below the latest commented lines, like:
 
@@ -42,7 +42,7 @@ Open the downloaded package and follow instructions below.
     ['init'] spawn cxpadg_fnc_advGatherMenu;
     ```
 
-    <img src="https://is.gd/njZYoQ" style="width:6.5in;height:2.86111in" />
+    <img src="../images/AdvGather/image5.png" style="width:6.5in;height:2.86111in" />
 
 Now you can configure the system as you wish.
 
