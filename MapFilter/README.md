@@ -25,7 +25,7 @@ Open the downloaded package and follow instructions below.
 
     **Example (line 4):**
 
-    <img src="./media/image2.png" style="width:6.5in;height:0.97222in" />
+    <img src="../images/Mapfilter/image2.png" style="width:6.5in;height:0.97222in" />
 
 ## Further Instructions
 
