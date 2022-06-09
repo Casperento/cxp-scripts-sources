@@ -20,7 +20,7 @@ Open the downloaded package and follow instructions below.
 
     **Example (line 46):**
 
-    <img src="./media/image2.png" style="width:3.42708in;height:1.79167in" />
+    <img src="../images/Safezones/image2.png" style="width:3.42708in;height:1.79167in" />
 
     - On **missionName.Map\\core\\items\\fn_lockpick.sqf** add:
     ```sqf
@@ -29,7 +29,7 @@ Open the downloaded package and follow instructions below.
 
     **Example (line 9):**
 
-    <img src="./media/image1.png" style="width:6.5in;height:1.72222in" />
+    <img src="../images/Safezones/image1.png" style="width:6.5in;height:1.72222in" />
 
 ## Further Instructions
 
