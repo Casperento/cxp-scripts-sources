@@ -10,7 +10,7 @@ These systems were once sold in a marketplace. So, if you wanna use them in your
 
 # Features
 
-### CXP Advanced Gather
+### ![CXP Advanced Gather](https://github.com/Casperento/cxp-scripts-sources/blob/main/AdvancedGather/README.md)
 Description: _Improve your gather system_
 
 - Configuration:
@@ -22,7 +22,7 @@ Description: _Improve your gather system_
         - and many more!
     - Localize system's strings properly with stringtable packages.
  
- ### CXP Safezones
+ ### ![CXP Safezones](https://github.com/Casperento/cxp-scripts-sources/blob/main/SafeZones/README.md)
  Description: _Create safezones quickly_
  
  - Configuration:
@@ -40,7 +40,7 @@ Description: _Improve your gather system_
         - if players can lockpick inside the area,
         - and many more!
 
-### CXP Map Filter
+### ![CXP Map Filter](https://github.com/Casperento/cxp-scripts-sources/blob/main/MapFilter/README.md)
 Description: _Find markers in a fastest way_
 
 - Configuration:
@@ -53,7 +53,7 @@ Description: _Find markers in a fastest way_
     - You can hide markers
     - And many more!
 
-### CXP Bug tracker
+### ![CXP Bug tracker](https://github.com/Casperento/cxp-scripts-sources/blob/main/Bugtracker/README.md)
 Description: _In-game bugtracker_
 
 - Configuration:
