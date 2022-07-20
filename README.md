@@ -1,16 +1,16 @@
 # CXP SCRIPTS official repository
 
-This repository contains all of my private script packages made for ![Altis Life Framework](https://github.com/AsYetUntitled/Framework) (v5.0.0).
+This repository contains all of my private script packages made for [Altis Life Framework](https://github.com/AsYetUntitled/Framework) (v5.0.0).
 
 Feel free to download and use them. I will keep updating them as far as possible.
 
-These systems were once sold in a marketplace. So, if you wanna use them in your server, you need to setup my ![Package Installation Framework](https://github.com/Casperento/cxp-scripts-sources/blob/main/cxp/README.md). Finally, you're ready to install any of the existent script packages.
+These systems were once sold in a marketplace. So, if you wanna use them in your server, you need to setup my [Package Installation Framework](https://github.com/Casperento/cxp-scripts-sources/blob/main/cxp/README.md). Finally, you're ready to install any of the existent script packages.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/casperento)
 
 # Features
 
-### ![CXP Advanced Gather](https://github.com/Casperento/cxp-scripts-sources/blob/main/AdvancedGather/README.md)
+### [CXP Advanced Gather](https://github.com/Casperento/cxp-scripts-sources/blob/main/AdvancedGather/README.md)
 Description: _Improve your gather system_
 
 - Configuration:
@@ -22,7 +22,7 @@ Description: _Improve your gather system_
         - and many more!
     - Localize system's strings properly with stringtable packages.
  
- ### ![CXP Safezones](https://github.com/Casperento/cxp-scripts-sources/blob/main/SafeZones/README.md)
+ ### [CXP Safezones](https://github.com/Casperento/cxp-scripts-sources/blob/main/SafeZones/README.md)
  Description: _Create safezones quickly_
  
  - Configuration:
@@ -40,7 +40,7 @@ Description: _Improve your gather system_
         - if players can lockpick inside the area,
         - and many more!
 
-### ![CXP Map Filter](https://github.com/Casperento/cxp-scripts-sources/blob/main/MapFilter/README.md)
+### [CXP Map Filter](https://github.com/Casperento/cxp-scripts-sources/blob/main/MapFilter/README.md)
 Description: _Find markers in a fastest way_
 
 - Configuration:
@@ -53,7 +53,7 @@ Description: _Find markers in a fastest way_
     - You can hide markers
     - And many more!
 
-### ![CXP Bug tracker](https://github.com/Casperento/cxp-scripts-sources/blob/main/Bugtracker/README.md)
+### [CXP Bug tracker](https://github.com/Casperento/cxp-scripts-sources/blob/main/Bugtracker/README.md)
 Description: _In-game bugtracker_
 
 - Configuration:
