@@ -4,7 +4,9 @@ This repository contains all of my private script packages made for [Altis Life 
 
 Feel free to download and use them. I will keep updating them as far as possible.
 
-These systems were once sold in a marketplace. So, if you wanna use them in your server, you need to setup my [Package Installation Framework](https://github.com/Casperento/cxp-scripts-sources/blob/main/cxp/README.md). Finally, you're ready to install any of the existent script packages.
+These scripts were once closed-source. Now they are open-source, but customizations and installation support are paid services. If you need help installing or customizing it, grab a permanent license at my store on [Bytex Market](https://bytex.market/sellers/profile/K970748533) and contact me on their Discord or use their ticket system.
+
+If you wanna use them in your server, you need to setup my [Package Installation Framework](https://github.com/Casperento/cxp-scripts-sources/blob/main/cxp/README.md). Finally, you're ready to install any of the existent script packages.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/casperento)
 
