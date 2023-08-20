@@ -1,5 +1,4 @@
 class Cxp_Config_AdvGather {
-    start_button_delay = 3; // Time in seconds that the player have to wait to start filling backpack again
     cancel_button_delay = 3; // Time in seconds that the player have to wait to cancel the current task
 
     /*

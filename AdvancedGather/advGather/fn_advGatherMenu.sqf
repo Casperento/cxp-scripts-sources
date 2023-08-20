@@ -182,8 +182,8 @@ switch (_type) do {
 				private _prg = 0;
 				waitUntil {
 					player playMoveNow "AinvPercMstpSnonWnonDnon_Putdown_AmovPercMstpSnonWnonDnon";
-					uiSleep 1;
-					_prg = _prg + (1/_waitTime);
+					uiSleep 0.01;
+					_prg = _prg + (0.002 * (16.5 / _waitTime));
 					if (_prg >= 1) then {_prg = 1};
 					_prgBarText ctrlSetText format[["STR_CXP_ADG_Text_ProgressBar"] call cxp_utils_fnc_getRealText, round(_prg * 100), "%"];
 					_prgBar progressSetPosition _prg;
@@ -200,18 +200,10 @@ switch (_type) do {
 				private _itData = call compile lbData[ctrlIDC _lbItems, lbCurSel (ctrlIDC _lbItems)];
 
 				if ([(_itData # 1), (_itData # 2), cxpadg_currZoneItMaxAmount] call cxpadg_fnc_addVirtualItem) then {
-					systemChat (["STR_CXP_ADG_ToolTip_BtnStart_InvFull"] call cxp_utils_fnc_getRealText);
+					hint format [["STR_CXP_ADG_ToolTip_BtnStart_Complete"] call cxp_utils_fnc_getRealText, cxpadg_currZoneItMaxAmount, (_itData # 0)];
 					_ctrlBtn ctrlSetTooltip (["STR_CXP_ADG_ToolTip_BtnStart_InvFull"] call cxp_utils_fnc_getRealText);
 				} else {
 					diag_log "CXP ADG could not add virtual items into player's backpack...";
-				
-					[_ctrlBtn,
-					"start_button_delay",
-					"STR_CXP_ADG_Text_BtnStart",
-					"STR_CXP_ADG_Text_BtnStart_Delay",
-					"STR_CXP_ADG_ToolTip_BtnStart",
-					"STR_CXP_ADG_ToolTip_BtnStart_Delay"
-					] spawn cxpadg_fnc_buttonDelay;
 				};
 				
 				// update menu ctrls

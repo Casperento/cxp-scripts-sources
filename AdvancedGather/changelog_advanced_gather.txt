@@ -4,3 +4,10 @@ v1.0
 v1.1
   - Fixed cases in which the progress bar dialog was not loading 100%
   - Added a new option to configure how longer the gather process will take for an item
+
+v1.2
+  - New smoother animation for the progress bar
+  - Start button's delay removed
+  - Button's delay string refactored
+  - Dialog's dependencies imports refactored
+  - New localized string for printing gathering process completion

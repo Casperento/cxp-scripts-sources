@@ -88,6 +88,10 @@
             <Original>Filling backpack...</Original>
             <Portuguese>Preenchendo mochila...</Portuguese>
         </Key>
+        <Key ID="STR_CXP_ADG_ToolTip_BtnStart_Complete">
+            <Original>You've filled your backpack with %1 %2(s)!</Original>
+            <Portuguese>Você preencheu sua mochila com %1 %2(s)!</Portuguese>
+        </Key>
         <Key ID="STR_CXP_ADG_ToolTip_BtnStart_InvFull">
             <Original>Your backpack is full...</Original>
             <Portuguese>Sua mochila está cheia...</Portuguese>

@@ -18,14 +18,16 @@ params [
 if (isNull _ctrl) exitWith {hint "Control broken passed to fn_buttonDelay..."};
 
 disableSerialization;
-private _delayTime = time + (getNumber(missionConfigFile >> "Cxp_Config_AdvGather" >> _delay));
+private _counter = (getNumber(missionConfigFile >> "Cxp_Config_AdvGather" >> _delay));
 _ctrl ctrlEnable false;
-_ctrl ctrlSetTooltip format[[_tooltipDelay] call cxp_utils_fnc_getRealText, (getNumber(missionConfigFile >> "Cxp_Config_AdvGather" >> _delay))];
+_ctrl ctrlSetTooltip format[[_tooltipDelay] call cxp_utils_fnc_getRealText, _counter];
 
 waitUntil {
-	_ctrl ctrlSetText format[[_textDelay] call cxp_utils_fnc_getRealText, [(_delayTime - time),"SS.MS"] call BIS_fnc_secondsToString];
+	_ctrl ctrlSetText format[[_textDelay] call cxp_utils_fnc_getRealText, _counter];
 	_ctrl ctrlCommit 0;
-	round (_delayTime - time) <= 0 || isNull (ctrlParent _ctrl)
+	sleep 1;
+	_counter = _counter - 1;
+	_counter <= 0 || isNull (ctrlParent _ctrl)
 };
 
 _ctrl ctrlSetText ([_text] call cxp_utils_fnc_getRealText);
