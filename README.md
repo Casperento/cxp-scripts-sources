@@ -8,8 +8,6 @@ These scripts were once closed-source. Now they are open-source, but customizati
 
 If you wanna use them in your server, you need to setup my [Package Installation Framework](https://github.com/Casperento/cxp-scripts-sources/blob/main/cxp/README.md). Finally, you're ready to install any of the existent script packages.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/casperento)
-
 # Features
 
 ### [CXP Advanced Gather](https://github.com/Casperento/cxp-scripts-sources/blob/main/AdvancedGather/README.md)
